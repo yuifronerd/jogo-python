@@ -3,3 +3,4 @@ Este é um repósitorio criado para mostrar uma atividade realizada em python pa
 * Compreender a estrutura básica de um jogo em Pygame.
 * Aprender sobre eventos de teclado e controle de objetos.
 * Praticar a lógica de colisão e contagem de pontos.
+
